@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- Watch our Van build on YouTube [Marola and Ali](https://www.youtube.com/watch?v=1_wLuCW57Ag&list=PLXbcaz4ddnMedmsQZyzw-tzx3Hx9eBm5X)
+
 <!--
 **AliKarpuzoglu/AliKarpuzoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
